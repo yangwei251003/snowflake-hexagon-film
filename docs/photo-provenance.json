@@ -1,0 +1,17 @@
+{
+  "id": "579A",
+  "path": "source/assets/bentley-579A.jpg",
+  "creator": "Wilson A. Bentley",
+  "date": "circa 1890",
+  "source_url": "https://siarchives.si.edu/collections/siris_arc_308065",
+  "image_url": "https://ids.si.edu/ids/deliveryService?id=SIA-SIA2013-09136&max=2000",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "credit": "Smithsonian Institution Archives, Record Unit 31, Image No. SIA2013-09136",
+  "sha256": "b8b59dc58a3546c7f1970948a178ee3a2d3c67c0af4ab419a8eda717b54b368c",
+  "size": [
+    2000,
+    1722
+  ],
+  "role": "primary"
+}

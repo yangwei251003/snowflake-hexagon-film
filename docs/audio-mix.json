@@ -1,0 +1,22 @@
+{
+  "path": "雪花为什么有六个角-动作音效.wav",
+  "format": "48 kHz stereo PCM16",
+  "start_seconds": 0,
+  "sample_count": 2592000,
+  "duration_seconds": 54.0,
+  "synthesis_engine_sha256": "02dbe98edab5cbcf2b626db0c661ddab0410a9bfa33b54279f7b7c0ebf32ceb1",
+  "synthesis_events": 32,
+  "sample_peak_dbfs": -8.03,
+  "music": false,
+  "recorded_shutter": {
+    "source": "https://freesound.org/people/Fission9/sounds/693869/",
+    "license": "CC0-1.0",
+    "source_kind": "public MP3 preview",
+    "author": "Fission9",
+    "sha256": "bb3d538e5bd38fce8288283db1b5cc78d18e53a3a05cfa68298a1d288b0e0552",
+    "source_trim_in_seconds": 0.185,
+    "source_transient_seconds": 0.1925,
+    "output_placement_seconds": 43.6925,
+    "output_transient_seconds": 43.7
+  }
+}
